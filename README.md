@@ -1,5 +1,5 @@
 # Forecast 
-This code was created with the purpose of finding out if the ability to predict search traffic can be translate into the ability to successfully trade the stock, with some help of Google Colab and Prophet forecasting at scale from facebook.
+This code was created with the purpose of figuring out if the ability to predict search traffic can translate into the ability to successfully trade stock, with some help from Google Colab and Prophet forecasting at scale from facebook.
 
 ## Technologies
 ```
